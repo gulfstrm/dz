@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\c_Sharp_Coursee\\1_lesson\\1_6\\1_6.csproj": {}
+    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\1_6\\1_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\c_Sharp_Coursee\\1_lesson\\1_6\\1_6.csproj": {
+    "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\1_6\\1_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\c_Sharp_Coursee\\1_lesson\\1_6\\1_6.csproj",
+        "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\1_6\\1_6.csproj",
         "projectName": "1_6",
-        "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\c_Sharp_Coursee\\1_lesson\\1_6\\1_6.csproj",
+        "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\1_6\\1_6.csproj",
         "packagesPath": "C:\\Users\\gulfs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\examples\\c_Sharp_Coursee\\1_lesson\\1_6\\obj\\",
+        "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\1_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gulfs\\AppData\\Roaming\\NuGet\\NuGet.Config"
