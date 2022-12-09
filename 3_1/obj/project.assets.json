@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\2_dz\\2_0\\3_1\\3_1.csproj",
+      "projectUniqueName": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\3_1\\3_1.csproj",
       "projectName": "3_1",
-      "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\2_dz\\2_0\\3_1\\3_1.csproj",
+      "projectPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\3_1\\3_1.csproj",
       "packagesPath": "C:\\Users\\gulfs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\2_dz\\2_0\\3_1\\obj\\",
+      "outputPath": "C:\\Users\\gulfs\\OneDrive\\Рабочий стол\\dz\\3_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gulfs\\AppData\\Roaming\\NuGet\\NuGet.Config"
