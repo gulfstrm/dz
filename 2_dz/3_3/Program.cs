@@ -6,10 +6,13 @@ Console.Write("Ведите число: ");
 
 int n = Convert.ToInt32(Console.ReadLine());
 
-if (n<100)
+if (n < 100)
 
-Console.WriteLine("Третьей цифры нет ");
+    Console.WriteLine("Третьей цифры нет ");
 
-else
-
-Console.WriteLine($"Третье число {n%100/10}");
+while (n > 999)
+{
+    n = (n / 10);
+}
+if(n>100)
+Console.WriteLine($"Третье число {n % 10}");
