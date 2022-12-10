@@ -9,10 +9,10 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите число  3");
 int c = Convert.ToInt32(Console.ReadLine());
 
-  int maximal = a;
+int maximal = a;
 
-  if(a > maximal ) maximal = a;
-  if(b > maximal ) maximal = b;
-  if(c > maximal ) maximal = c;
+if (a > maximal) maximal = a;
+if (b > maximal) maximal = b;
+if (c > maximal) maximal = c;
 
-   Console.WriteLine(" самое большое число: "+maximal);
+Console.WriteLine(" самое большое число: " + maximal);
