@@ -2,10 +2,10 @@
 // между ними в 3D пространстве.
 int ReadNumber(string message)
 {
-    Console.Write(message);
-    var s = Console.ReadLine();
-    int a = s == null ? 0 : int.Parse(s);
-    return a;
+  Console.Write(message);
+   var s = Console.ReadLine();
+   int a = s == null ? 0 : int.Parse(s);
+  return a;
 }
 double Distance(int ax,int ay,int az,int bx,int by,int bz )
 {
