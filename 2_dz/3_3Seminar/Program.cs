@@ -10,7 +10,8 @@ int ReadNumber(string message)
 double Distance(int ax,int ay,int bx,int by)
 {
     double result;
-    result = Math.Sqrt(Math.Pow(bx-ax,2)+Math.Pow(by-bx,2));
+    result = Math.Sqrt(Math.Pow(bx-ax,2)+Math.Pow(by-ay,2));
+
     return result;
 }
 
