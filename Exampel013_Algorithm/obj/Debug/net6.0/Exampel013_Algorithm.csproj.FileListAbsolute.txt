@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\bin\Debug\net6.0\Exampel013_Algorithm.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\bin\Debug\net6.0\Exampel013_Algorithm.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\bin\Debug\net6.0\Exampel013_Algorithm.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\bin\Debug\net6.0\Exampel013_Algorithm.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\bin\Debug\net6.0\Exampel013_Algorithm.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\refint\Exampel013_Algorithm.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\Exampel013_Algorithm.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\Exampel013_Algorithm\obj\Debug\net6.0\ref\Exampel013_Algorithm.dll
