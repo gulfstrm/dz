@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\bin\Debug\net6.0\5_1seminar.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\bin\Debug\net6.0\5_1seminar.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\bin\Debug\net6.0\5_1seminar.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\bin\Debug\net6.0\5_1seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\bin\Debug\net6.0\5_1seminar.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\refint\5_1seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\5_1seminar.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\5_1seminar\obj\Debug\net6.0\ref\5_1seminar.dll
