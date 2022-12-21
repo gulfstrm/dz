@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\bin\Debug\net6.0\6_2DZ.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\bin\Debug\net6.0\6_2DZ.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\bin\Debug\net6.0\6_2DZ.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\bin\Debug\net6.0\6_2DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\bin\Debug\net6.0\6_2DZ.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\refint\6_2DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\6_2DZ.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\6_2DZ\obj\Debug\net6.0\ref\6_2DZ.dll
