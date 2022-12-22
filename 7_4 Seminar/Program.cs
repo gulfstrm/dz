@@ -1,4 +1,6 @@
-﻿// Найди 2  мерный массив.Найди сумму элементов главной диагонали.
+﻿// Задай 2 мерный массив.ВВедите элемент и найдите первое его вхождение
+// выведите позиции по горизонтали и вертикали или напиши что такого элемента нет.
+
 void Print(int[,] arr)
 {
     int row_size = arr.GetLength(0);
@@ -22,14 +24,17 @@ int[,] MassNums(int row, int column, int from, int to)
     return arr;
 }
 
-int Summ(int[,] arr)
+string FindElem(int[,] arr, int findNum)
 {
-    int sum = 0;
-    int row = arr.GetLength(0);
-    for (int i = 0; i < row; i++)
-        sum += arr[i, i];
+    for (int i = 0; i < arr.GetLength(0); i++)
 
-    return sum;
+        for (int j = 0; j < arr.GetLength(1); j++)
+
+            if (arr[i, j] == findNum)
+                return $"искомый элемент{findNum} находиться на позиции [{i + 1}, {j + 1}]";
+
+    return $"искомый элемент{findNum} не найден";
+
 }
 Console.WriteLine("Enter the number of rows: ");
 int row = int.Parse(Console.ReadLine());
@@ -39,5 +44,6 @@ int column = int.Parse(Console.ReadLine());
 int[,] arr_1 = MassNums(row, column,
 int.Parse(Console.ReadLine()),
 int.Parse(Console.ReadLine()));
+
 Print(arr_1);
-Console.Write(Summ(arr_1));
+Console.WriteLine(FindElem(arr_1, int.Parse(Console.ReadLine())));
