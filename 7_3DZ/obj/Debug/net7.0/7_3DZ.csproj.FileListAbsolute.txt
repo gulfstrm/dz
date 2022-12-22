@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\bin\Debug\net7.0\7_3DZ.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\bin\Debug\net7.0\7_3DZ.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\bin\Debug\net7.0\7_3DZ.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\bin\Debug\net7.0\7_3DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\bin\Debug\net7.0\7_3DZ.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\refint\7_3DZ.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\7_3DZ.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\7_3DZ\obj\Debug\net7.0\ref\7_3DZ.dll
