@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\bin\Debug\net6.0\9_1Seminar.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\bin\Debug\net6.0\9_1Seminar.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\bin\Debug\net6.0\9_1Seminar.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\bin\Debug\net6.0\9_1Seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\bin\Debug\net6.0\9_1Seminar.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\refint\9_1Seminar.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\9_1Seminar.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\dz\9_1Seminar\obj\Debug\net6.0\ref\9_1Seminar.dll
