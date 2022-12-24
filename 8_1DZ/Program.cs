@@ -42,19 +42,29 @@ void OrderElMin(int[,] arr)
     }
 }
 
-Console.Write("Enter the number of rows: ");
+
+Console.Write("enter the number of rows: ");
 int row = int.Parse(Console.ReadLine());
-Console.Write("Enter the number of column: ");
+Console.Write("enter the number of colums: ");
 int column = int.Parse(Console.ReadLine());
 
 int[,] arr_1 = MassNums(row, column,
-int.Parse(Console.ReadLine()),
-int.Parse(Console.ReadLine()));
-Print(arr_1);
+                        int.Parse(Console.ReadLine()),
+                        int.Parse(Console.ReadLine()));
 
 Console.Write("Enter the line posicion:");
 int first = int.Parse(Console.ReadLine());
 Console.Write("Enter the column posicion:");
 int sekond = int.Parse(Console.ReadLine());
 
-Console.WriteLine();
+
+
+Print(arr_1);
+OrderElMin(arr_1);
+
+
+
+
+
+
+
